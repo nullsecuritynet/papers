@@ -1,7 +1,7 @@
 # nullsec-net-crypter
 
 About
-=====
+-----
 A paper discussing ideas of advanced runtime encryption of .NET executables.
 
 If you find some bugs or if you have any questions, ideas or criticism regarding
