@@ -1,4 +1,4 @@
-# nullsec-buying-an-amiga-paper
+# nullsec-amiga
 
 About
 -----
