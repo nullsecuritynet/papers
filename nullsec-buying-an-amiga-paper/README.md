@@ -1,4 +1,4 @@
-# nullsec-opengameboy
+# nullsec-buying-an-amiga-paper
 
 About
 -----
